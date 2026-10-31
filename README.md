@@ -52,12 +52,12 @@ http://localhost:3000/
 
 ## Testing the Application
 
-The following endpoints were tested successfully using a web browser:
+The following endpoints are deployed and  were tested successfully using a web browser:
 
-- Home route: `http://localhost:3000/`
-- About route: `http://localhost:3000/about`
-- Time route: `http://localhost:3000/time`
-- 404 route: `http://localhost:3000/unknown`
+- Home route: `https://backend-labs-252u1r5053-lab-1.onrender.com/`
+- About route: `https://backend-labs-252u1r5053-lab-1.onrender.com/about`
+- Time route: `https://backend-labs-252u1r5053-lab-1.onrender.com/time`
+- 404 route: `https://backend-labs-252u1r5053-lab-1.onrender.com/unknown`
 
 ## Screenshots
 <img width="1920" height="976" alt="{50DB8FCF-B8A4-4957-B2F7-E9763D30A479}" src="https://github.com/user-attachments/assets/90e0b861-39cf-4741-873c-8a041b45f9cf" />
