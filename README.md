@@ -60,12 +60,11 @@ The following endpoints were tested successfully using a web browser:
 - 404 route: `http://localhost:3000/unknown`
 
 ## Screenshots
+<img width="1920" height="976" alt="{50DB8FCF-B8A4-4957-B2F7-E9763D30A479}" src="https://github.com/user-attachments/assets/90e0b861-39cf-4741-873c-8a041b45f9cf" />
+<img width="1920" height="982" alt="{20353B15-2115-4DF4-A3AE-CA62CC7C4399}" src="https://github.com/user-attachments/assets/590dfbdf-c7e4-4632-a000-762d18279a04" />
+<img width="1920" height="1005" alt="{DB018934-79E6-4708-B42A-A6D08D0DFC8A}" src="https://github.com/user-attachments/assets/8839e167-ecaa-40de-af66-5d49a2efef57" />
+<img width="1920" height="974" alt="{5F62A5C8-CE11-4E54-ACDE-16F7125E669F}" src="https://github.com/user-attachments/assets/3698c595-85a4-42b8-aa41-eef3d727edb0" />
 
-
-<img width="1920" height="975" alt="{EDBF1AF8-38BB-43EC-BBAF-57B2E309867B}" src="https://github.com/user-attachments/assets/2eb35bc0-c722-4204-ada2-05daba36c685" />
-<img width="1920" height="1037" alt="{09A347D4-B71B-465C-A439-AEFE9EAA2161}" src="https://github.com/user-attachments/assets/f823b00c-d6c5-4af8-93f6-de166a066d56" />
-<img width="1920" height="1012" alt="{30479461-DA07-4E6B-BFF3-16C0BA008289}" src="https://github.com/user-attachments/assets/293be088-f3bb-496c-9350-47bb09a005f5" />
-<img width="1920" height="988" alt="{3487F74A-1859-4C9E-81B1-58BFC07F274F}" src="https://github.com/user-attachments/assets/2e5ccce4-8092-4271-82da-e3e17b4592d4" />
 
 
 ## Deployment
